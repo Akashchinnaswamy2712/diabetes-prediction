@@ -12,5 +12,12 @@ This project aims to predict whether a person is diabetic or not using various m
 - 🌐 Web deployment: Flask-based user interface
 - 💾 Saved artifacts: `.pkl` files for model, scaler, and imputer
 
----
+## 🖼️ Web App Output
+
+Below is a preview of the Flask app:
+
+![Flask App UI](static/application%20home%20output%20.png)
+
+![Flask App Screenshot](static/Screenshot%202025-07-05%20140123.png)
+
 
